@@ -9,8 +9,9 @@ using Microsoft.Bot.Configuration;
 namespace Microsoft.BotBuilderSamples
 {
     /// <summary>
-    /// Represents references to external services.
+    /// Represents references to external services   
     ///
+    /// This is a test
     /// For example, LUIS services are kept here as a singleton.  This external service is configured
     /// using the <see cref="BotConfiguration"/> class.
     /// </summary>
